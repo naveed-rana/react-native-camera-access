@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!--<style name="DefaultExplainingPermissionsTheme" parent="Theme.AppCompat.Light.Dialog.Alert">-->
+        <!--&lt;!&ndash; Used for the buttons &ndash;&gt;-->
+        <!--<item name="colorAccent">@colors/colorAccent</item>-->
+
+        <!--&lt;!&ndash; Used for the title and text &ndash;&gt;-->
+        <!--<item name="android:textColorPrimary">@colors/colorPrimary</item>-->
+
+        <!--&lt;!&ndash; Used for the background &ndash;&gt;-->
+        <!--<item name="android:background">@colors/colorPrimaryDark</item>-->
+    <!--</style>-->
+
+</resources>
